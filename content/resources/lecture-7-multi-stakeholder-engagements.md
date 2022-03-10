@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 7: Multi-stakeholder Engagements (PDF)](resources/mitesd_s43s14_lecture7)'
+optional_text: '[Lecture 7: Multi-stakeholder Engagements (PDF)](/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture7)'
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
 related_resources_text: ''

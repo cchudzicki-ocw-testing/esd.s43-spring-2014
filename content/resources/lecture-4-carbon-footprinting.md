@@ -6,7 +6,7 @@ learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  4: Carbon Footprinting (PDF - 2.0MB)](resources/mitesd_s43s14_lecture4)'
+  4: Carbon Footprinting (PDF - 2.0MB)](/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture4)'
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
 related_resources_text: ''
