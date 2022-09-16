@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Reverse Logistics and Closing the Loop'
 uid: af71073a-f1f4-c84e-6249-ce5272d4534d
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Student discussed two case-studies and learned about reverse logistics and closed-loop supply chain. Students also shared their ideas for the final project and received comments and feedback from the instructors.
 
 **Instructor:** Dr. Edgar Blanco
+

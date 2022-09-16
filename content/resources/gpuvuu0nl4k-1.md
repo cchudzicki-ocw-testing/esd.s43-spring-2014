@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-s43-green-supply-chain-management-spring-2014/3abc7307034f72e1210744db902b4c46_gpuvUU0Nl4k.pdf
+file: /media/courses/esd-s43-green-supply-chain-management-spring-2014/3abc7307034f72e1210744db902b4c46_gpuvUU0Nl4k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 7: Multi-stakeholder Engagements (PDF)](/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture7)'
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Multi-stakeholder Engagements'
 uid: 9ada2ab4-2f74-e114-8c7c-0aa2944ade5e
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Students learned different aspects on the multi-stakeholder engagements from discussion of a case study on the palm oil supply chain, "Golden Agri Resources and Sustainability Case Study."
 
 **Instructor:** Dr. Alexis Bateman
+
